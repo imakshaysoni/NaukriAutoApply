@@ -1,3 +1,8 @@
+# Thanks for the script. I've made changes to adapt it to the new Naukri UI. Below are the updates I've implemented:
+
+Converted it into a scheduled job.
+Currently working on several other features which are still in progress."
+
 # Naukri-automatic-job-apply-bot
 Automation that applies to jobs on Naukri.com easily for fatster job hunting and it uses Selenium package for browser automation.
 
