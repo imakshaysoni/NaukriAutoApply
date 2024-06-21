@@ -1,4 +1,4 @@
-# Thanks for the script. I've made changes to adapt it to the new Naukri UI. Below are the updates I've implemented:
+# Thanks '@lordzohar' for the script. I've made changes to adapt it to the new Naukri UI. Below are the updates I've implemented:
 
 Converted it into a scheduled job.
 Currently working on several other features which are still in progress."
